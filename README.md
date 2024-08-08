@@ -1,1 +1,1 @@
-# CS648
+# ARIMA model to analyse Ireland Weather
